@@ -1,0 +1,14 @@
+#humantxt.org
+# The humans responsible & technology colophon
+
+# TEAM
+	Thomas Sluis thomas.sluis@teradata.com @tosluis
+	
+# THANKS
+
+<name>
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CS3
+	jQuery, Modernizr
